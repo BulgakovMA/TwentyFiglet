@@ -33,7 +33,3 @@
 7. CYAN
 
 При желании результат можно сохранить для дальнейшего использования.
-
-Импорт программы:
-import project.twenty_figlet as tf
-tf.style_choose
